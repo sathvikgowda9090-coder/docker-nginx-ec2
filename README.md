@@ -12,3 +12,4 @@ on an AWS EC2 instance.
 ## Outcome
 Successfully deployed a containerized web application on AWS Cloud.
 
+# Docker-nginx-ec2
